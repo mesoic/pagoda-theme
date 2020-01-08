@@ -65,7 +65,7 @@ Version 1.1.3 | 7th January 2020
 
 # Copyright, Credits & Resources:
 
-*** Pagoda WordPress Theme, Copyright 2019 @mesoic ***
+***Pagoda WordPress Theme, Copyright 2019 @mesoic***
 
 The theme uses the following third-party resources:
 
