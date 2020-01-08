@@ -1,0 +1,436 @@
+/*******************************************/
+/*             TOP LEVEL CSS               */
+/*******************************************/
+html body {
+	margin:0;
+	height:100%;
+	overflow: auto;
+}
+
+/* Correct Quotes */
+html q {
+	quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+html[lang="fr"] q {
+ 	quotes: "\00ab" "\00bb";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #000;
+	margin: 0 0 10px 0;
+}
+
+p {
+	color: #000;
+	margin: 10px 0px;
+	line-height: 1.5em;
+}
+
+ul {
+	padding-left: 40px;
+}
+
+li > ul {
+	padding-left: 20px;
+}
+
+a, 
+a:hover, 
+a:focus, 
+a:active, 
+a.active {
+	outline: 0;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	visibility: visible;
+}
+
+figure {
+	margin: 0;
+}
+
+main {
+	overflow: auto;
+	width: 100%;
+}
+
+input {
+	border-radius: 5px; 
+	border: none;
+}
+
+textarea {
+	border-radius: 5px;
+	border: none;
+}
+
+/* Code Block */
+code {
+	word-wrap: break-word;
+    word-break:break-all;
+	font-family: monospace; 
+	font-size: 16px;
+	width:inherit;
+}
+
+span.code{
+	word-wrap: break-word;
+    word-break:break-all;
+	font-family: monospace !important; 
+    font-size: 16px !important;
+	line-height: 1.5em;
+	width:inherit;
+}
+p.code-block{
+	word-wrap: break-word;
+    word-break:break-all;
+    font-family: monospace !important; 
+    font-size: 12px !important;
+	width:inherit;
+	padding: 10px 20px;
+	box-sizing: border-box;
+}
+
+/* Blockquote */
+blockquote {
+	border: 0;
+	margin: 20px 0px;
+	padding: 5px 0px; 
+	width: 100%;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+blockquote p {
+	overflow: hidden;
+	padding: 5px 5px 5px 20px;
+	margin: 0;
+}
+
+
+/*******************************************/
+/*             	  HEADER CSS               */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+/*******************************************/
+/*        		 NAVBAR CSS                */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+
+/*******************************************/
+/*             	 SECTIONS CSS              */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+/*******************************************/
+/*             	  FOOTER CSS               */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+/*******************************************/
+/*             	  PAGES CSS                */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+/*******************************************/
+/*             	  POSTS CSS                */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+/*******************************************/
+/*        		RESPONSIVE CSS             */
+/*******************************************/
+/*
+ * Autogen
+ *
+ */
+
+ 
+/*******************************************/
+/*        	  WIDGET GRID LAYOUTS          */
+/*******************************************/
+
+.pagoda-widget-row-wrap {
+	display: block;
+	text-align: center;
+}
+.pagoda-widget-row {
+	display: inline-flex;
+	margin: 0 auto;
+	width: 100%;
+}
+@media all and (max-width:768px){
+	.pagoda-widget-row {
+		display: inline-block;
+	}
+}
+.pagoda-widget-row > .widget-20-percent {
+	width: 20%;
+	float: left;
+}
+.pagoda-widget-row > .widget-25-percent {
+	width: 25%;
+	float: left;
+}
+.pagoda-widget-row > .widget-30-percent {
+	width: 30%;
+	float: left;
+}
+.pagoda-widget-row > .widget-33-percent {
+	width: 33%;
+	float: left;
+}
+.pagoda-widget-row > .widget-40-percent {
+	width: 40%;
+	float: left;
+}
+.pagoda-widget-row > .widget-50-percent {
+	width: 50%;
+	float: left;
+}
+.pagoda-widget-row > .widget-60-percent {
+	width: 60%;
+	float: left;
+}
+.pagoda-widget-row > .widget-66-percent {
+	width: 66%;
+	float: left;
+}
+.pagoda-widget-row > .widget-75-percent {
+	width: 75%;
+	float: left;
+}
+.pagoda-widget-row > .widget-80-percent {
+	width: 80%;
+	float: left;
+}
+.pagoda-widget-row > .widget-90-percent {
+	width: 90%;
+	float: left;
+}
+.pagoda-widget-row > .widget-100-percent {
+	width: 100%;
+	float: left;
+}
+
+@media all and (max-width:980px) {
+	.pagoda-widget-row > .widget-20-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-25-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-30-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-33-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-40-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-50-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-60-percent { 
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-66-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-75-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-80-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-90-percent {
+		width: 100%;
+		float: left;
+	}
+	.pagoda-widget-row > .widget-100-percent {
+		width: 100%;
+		float: left;
+	}
+}
+
+/*******************************************/
+/*        DEFAULT WORDPRESS FEATURES       */
+/*******************************************/
+/*  Only contains classes not styled via   */
+/*        machine generated CSS            */ 
+/*******************************************/
+/* =WordPress Core */
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+	background-color: #eee;
+	clip: auto !important;
+	clip-path: none;
+	color: #444;
+	display: block;
+	font-size: 1em;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+	/* Above WP toolbar. */
+}
+
+/* Customizer Declarations */
+select#page_template, 
+.pagoda-post-metabox-select {
+	width: 100%;
+}
+
+/* Sticky Posts */
+.sticky {
+	/* Autogen by posts class */
+}
+
+/* Size Declarations */
+.size-auto, 
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+	max-width: 100%;
+	height: auto;
+}

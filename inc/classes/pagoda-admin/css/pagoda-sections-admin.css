@@ -1,0 +1,70 @@
+.pagoda-admin-widget-fields {
+    margin: 10px 0;
+}
+
+.pagoda-admin-widget-fields p label {
+    margin-right: auto;
+}
+
+.pagoda-admin-widget-fields p strong {
+    text-transform: uppercase;
+}
+
+.pagoda-admin-widget-fields p:first-child {
+    display: block;
+    margin-top: 0;
+}
+
+.pagoda-admin-widget-fields p:last-child {
+    margin-bottom: 0;
+}
+
+.pagoda-admin-widget-field {
+    font-size: 13px;
+    padding: 10px;
+    margin: 0px;
+    background: #FAFAFA;
+    border: 1px solid #ddd;
+}
+
+.pagoda-admin-widget-field label{
+	font-weight: bold;
+}
+
+.pagoda-admin-widget-toggle:before {
+    font-family:"dashicons";
+	display:inline-block;
+	vertical-align:middle;
+	line-height:1;
+	font-weight:normal;
+	font-style:normal;
+	speak:none;
+	text-decoration:inherit;
+	text-transform:none;
+	text-rendering:auto;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+    content: "\f132";
+    transition: all 300ms ease-in-out;
+    margin-right: 5px;
+}
+
+.pagoda-admin-widget-toggle.open:before {
+    content: "\f460";
+}
+
+.pagoda-admin-widget-toggle {
+    font-size: 13px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: -1px;
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+}
+
+/* Customizer Declarations */
+select#parent_id,
+select#page_template, 
+.pagoda-post-metabox-select {
+    width: 100%;
+}

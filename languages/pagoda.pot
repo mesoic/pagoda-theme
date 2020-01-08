@@ -1,0 +1,2619 @@
+# Copyright (C) 2017 Nablafire
+# This file is distributed under the same license as the Pagoda package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagoda 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pagoda\n"
+"POT-Creation-Date: 2017-11-26 01:39:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:29
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid "page not found"
+msgstr ""
+
+#: comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:65
+msgid "name*"
+msgstr ""
+
+#: comments.php:72
+msgid "email*"
+msgstr ""
+
+#: comments.php:79
+msgid "website"
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:193
+msgid "Frontpage Images"
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:202
+msgid "Frontpage Buttons"
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:210
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:266
+msgid ""
+"Select the number of images that you would like for the homepage header "
+"image set. This is the number of images that will cycle through in the case "
+"of an animated background. If you would prefer a non-animated background, "
+"you will be able to select from any one of these images as a static image, "
+"or an image with parallax effect. The background can be configured in the "
+"<em>Pagoda Header Settings</em> customizer panel."
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:283
+msgid ""
+"Select the number of buttons that you would like in the homepage header. "
+"Customizer sections will automatically be generated for this number of "
+"buttons in the <em>Pagoda Header Settings</em> section."
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:299
+msgid ""
+"Select the number of sections that you would like to have in your homepage. "
+"Customizer options will automatically be generated for this number of "
+"sections in the <em>Pagoda Sections Settings</em> customizer panel. To fill "
+"your sections check out the 'widgets' area in the <em>appearance section</"
+"em> of the wordpress backend. Pagoda is 'onepage theme', so your sections "
+"will display vertically in sequence down the page at 100% width."
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:307
+msgid "Every section you create in Pagoda is a widgtized area which supports."
+msgstr ""
+
+#: inc/classes/pagoda-admin/pagoda-settings.php:327
+msgid ""
+"<em style=\"color:red; font-weight:900\">WARNING:</em> This will remove all "
+"options associated with Pagoda from your wordpress DB. Note that your post "
+"and page content will not be deleted. This button strongly recommends you "
+"<em>back up your database</em> before continuing. You must click this button "
+"<em style=\"font-weight:900\">five times</em> in order to reset Pagoda."
+msgstr ""
+
+#: inc/classes/pagoda-pages.php:908 inc/classes/pagoda-posts.php:1540
+msgid "<strong>Featured Image Width (%):</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-pages.php:915 inc/classes/pagoda-posts.php:1547
+msgid "Featured images will be displayed at full width on mobile devices"
+msgstr ""
+
+#: inc/classes/pagoda-pages.php:927 inc/classes/pagoda-posts.php:1559
+msgid "<strong>Show Featured Image?</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:201
+msgid "Nothing Found ..."
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1366 inc/classes/pagoda-posts.php:1368
+msgid "Anonymous"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1406
+msgid "Post Attributes"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1414
+msgid "Post Properties"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1439
+msgid "<strong>Post Category Styles: </strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1442
+msgid ""
+"Select the category style to apply when rendering content for this post."
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1445
+msgid ""
+"per-Category styles are not active. To activate, see the posts panel in the "
+"theme customizer"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1489
+msgid "<strong>Show Post Title?</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1500
+msgid "<strong>Show Post Navigation?</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1511
+msgid "<strong>Show Post Comments?</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1522
+msgid "<strong>Show Post Tags?</strong>"
+msgstr ""
+
+#: inc/classes/pagoda-posts.php:1526
+msgid ""
+"Note that when disabling comments, existing comments will not be deleted."
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:284
+msgid "Pagoda Section"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:286
+msgid "save new widgets to activate layout options"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:346
+msgid "Pagoda Grid Layout"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:352
+msgid "Row Formatting"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:365
+msgid "Format this widget"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:371
+msgid "Widget Width"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:384
+msgid "Set the widget width"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:391
+msgid "Show on Mobile"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:396
+msgid "Show this widget on mobile?"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:423
+msgid "Full Width Widget"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:424
+msgid "Begin Widget Row"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:425
+msgid "Widget in Row"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:426
+msgid "End Widget Row"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:434
+msgid "100%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:435
+msgid "20%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:436
+msgid "25%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:437
+msgid "30%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:438
+msgid "33%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:439
+msgid "40%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:440
+msgid "50%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:441
+msgid "60%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:442
+msgid "66%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:443
+msgid "70%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:444
+msgid "75%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:445
+msgid "80%"
+msgstr ""
+
+#: inc/classes/pagoda-sections.php:446
+msgid "90%"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:20
+msgid "Home"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:21
+msgid "Pagoda Home Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:27
+msgid "Left"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:28
+msgid "Pagoda Left Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:34
+msgid "Right"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:35
+msgid "Pagoda Right Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:41
+msgid "Post"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:42
+msgid "Pagoda Post Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:48
+msgid "Blog"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:49
+msgid "Pagoda Blog Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:55
+msgid "Archive"
+msgstr ""
+
+#: inc/classes/pagoda-sidebars.php:56
+msgid "Pagoda Archive Sidebar"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:327
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:99
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:328
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:100
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:330
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:101
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:333
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:102
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:370
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:148
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:375
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:153
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:380
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:158
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:385
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:163
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:386
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:821
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2527
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3574
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:387
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3153
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:164
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:388
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2946
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:165
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:390
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:166
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:392
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:167
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:394
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:168
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:397
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:169
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:516
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:517
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:928
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:928
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:931
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:931
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:1115
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2942
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:1976
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2267
+msgid "Required"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2270
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2286
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2289
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2292
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2309
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2313
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2315
+msgid "Active"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2321
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2324
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2327
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2336
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2382
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2386
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2390
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2394
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2476
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2484
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2492
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2504
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2541
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2542
+msgid "Source"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2543
+msgid "Type"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2547
+msgid "Version"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2548
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2597
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2602
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2608
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2711
+msgid "Install"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2717
+msgid "Update"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2720
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3152
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3492
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3495
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3497
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3501
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3503
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3503
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3511
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3503
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3511
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3506
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3509
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3511
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3512
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/pagoda-tgmpa/TGM-Plugin-Activation.php:3514
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:18
+msgid "Nablafire Widgets"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:35
+msgid "Page to scroll id"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:52
+msgid "RA Widgets Animate"
+msgstr ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:103
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:108
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:113
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:118
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:123
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:128
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:133
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:138
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/pagoda-tgmpa/pagoda-tgmpa.php:143
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/pagoda-config-customizer.php:26
+msgid "Pagoda Customizer Panels"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:48
+msgid "Customizer Selective Loading"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:49
+msgid ""
+"This panel allows you to selectively enable and disable loading of Pagoda's "
+"customizer panels. Disabling customizer panels that you are not actively "
+"working with will dramatically <strong> improve the loading time of </"
+"strong> Pagoda's customizer. <br><br> Note that all panels are disabled by "
+"default, and <strong>no data is lost by selectively enabling or disabling "
+"panels.</strong>"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:57
+msgid "Customizer Panel Display Switches"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:58
+msgid "Please refresh the customizer for settings to take effect"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:66
+msgid "Show Header Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:71
+msgid "Show Navbar Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:76
+msgid "Show Sections Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:81
+msgid "Show Footer Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:86
+msgid "Show Sidebars Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:91
+msgid "Show Pages Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:96
+msgid "Show Posts Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:101
+msgid "Show Responsive Panel?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:113
+msgid "Front Page Display Options"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:114
+msgid ""
+"These settings apply when rendring the <strong>Front page(latest posts)</"
+"strong> or <strong>Posts Page(static page)</strong>"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:122
+msgid "Show Post Excerpts?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:123
+msgid "Show the full post or post excerpts?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:128
+msgid "Show Featured Images?"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:129
+msgid "Featured images will be displayed if they have been assigned"
+msgstr ""
+
+#: inc/customizer/pagoda-config-customizer.php:134
+msgid "Show Home Sidebar?"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:31
+msgid "Pagoda Footer Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:66
+msgid "Footer Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:85
+msgid "Footer Default Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:101
+#: inc/customizer/pagoda-header-customizer.php:205
+#: inc/customizer/pagoda-sections-customizer.php:213
+msgid "Select Background Image"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:102
+msgid ""
+"If no image is selected then the background will default to the background "
+"color"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:119
+msgid "Footer Title"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:124
+msgid "Title Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:134
+#: inc/customizer/pagoda-header-customizer.php:334
+#: inc/customizer/pagoda-sidebars-customizer.php:458
+msgid "Title Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:170
+msgid "Footer Subtitle"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:175
+msgid "Subtitle Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:185
+#: inc/customizer/pagoda-header-customizer.php:388
+msgid "Subtitle Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:229
+msgid "Social Icon Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:248
+msgid "Social Icons Master Switch"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:249
+msgid ""
+"This is a global switch which will turn on or off all social media icons in "
+"the footer regardless of settings."
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:258
+msgid "Social Icon Layout"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:266
+msgid "Social Icon Block Size"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:267
+msgid ""
+"This value sets the size of the container that individual social media icons "
+"are rendered in."
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:272
+msgid "Social Icon Font Size"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:273
+msgid "Social Icons will be vertically centered within their block containers."
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:279
+msgid "Social Icon Positioning"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:280
+msgid ""
+"Select the positioning of the social media icons relative to the footer text "
+"and subtext"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:285
+msgid "Container Padding"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:286
+msgid "Select the padding of the social icon container"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:296
+msgid "Social Icon Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:297
+msgid ""
+"Select social icon color and color on hover. This color palette applies to "
+"all icons"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:305
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:311
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:329
+msgid "Social Icon Data Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:349
+msgid "Link to your"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:350
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/pagoda-footer-customizer.php:355
+msgid "Show This Icon?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:30
+msgid "Pagoda Header Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:67
+msgid "Header Configuration"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:77
+msgid "Front Page Header Display Options"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:78
+msgid ""
+"Select the elements you would like to display within the front page header"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:86
+msgid "Show Banner Image?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:92
+msgid "Show Main Title?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:97
+msgid "Show Subtitle?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:102
+msgid "Show Buttons?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:120
+#: inc/customizer/pagoda-header-customizer.php:639
+#: inc/customizer/pagoda-navbar-customizer.php:203
+#: inc/customizer/pagoda-navbar-customizer.php:582
+#: inc/customizer/pagoda-pages-customizer.php:424
+#: inc/customizer/pagoda-posts-customizer.php:448
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:121
+msgid ""
+"When no header image settings are assigned, the header background defaults "
+"to this color"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:126
+msgid "Front Page Header Height"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:127
+msgid ""
+"Adjust front page header height. This may require adjustment of the banner "
+"section placement (see Title and Banner panel)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:134
+#: inc/customizer/pagoda-sections-customizer.php:184
+msgid "Image Positioning (%)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:135
+#: inc/customizer/pagoda-sections-customizer.php:185
+msgid ""
+"Adjust the horizontal positioning of your background images <em>(0-100%)</"
+"em>."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:140
+msgid "Contain Images?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:141
+msgid "Scale background images to fill header area?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:147
+msgid "Parallax Effect?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:148
+msgid "Parallax effect will not be applied to animated image sets."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:153
+msgid "Animate Image Set?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:154
+msgid ""
+"The animated background has the highest priority in background rendering. If "
+"this is selected all static and parallax settings assigned in the Background "
+"Settings and Background Images panels will be ignored"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:160
+msgid "Animation Timestep"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:161
+msgid "Number of milliseconds per image (ms)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:168
+msgid "Animation Opacity (%)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:169
+msgid "This determines the header image opacity for animated image sets."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:186
+msgid "Background Images"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:206
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:227
+msgid "Static Image?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:228
+msgid "Use this image as static or parallax background"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:262
+msgid "Title and Banner Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:263
+msgid "Title, Image, and Subtitle Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:280
+msgid "Select Banner Image "
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:281
+msgid "The banner image will be center aligned"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:302
+msgid "Banner Image Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:320
+msgid "Main Title"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:325
+msgid "Main Title Margin"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:374
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:379
+msgid "Subtitle Margin"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:447
+msgid "Button Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:457
+msgid "Button Layout Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:458
+msgid "These settings will be applied to all buttons"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:466
+msgid "Button Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:471
+msgid "Button Margin (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:476
+msgid "Button Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:477
+msgid ""
+"This property also determines the button text line height. All labels will "
+"be vertically centered in their containers"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:482
+msgid "Button Width (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:483
+msgid ""
+"This option can be used to fix the button width. If 0 is entered, then the "
+"width will be calculated based on the label text."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:490
+msgid "Button Transition Time (ms)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:491
+msgid ""
+"This value determines the transition speed betwen the default and hover "
+"color palettes. Color palettes can be individually assigned for each button."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:500
+msgid "Button Style Properties"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:509
+#: inc/customizer/pagoda-pages-customizer.php:489
+#: inc/customizer/pagoda-posts-customizer.php:512
+#: inc/customizer/pagoda-sidebars-customizer.php:369
+msgid "Show Border Elements?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:510
+#: inc/customizer/pagoda-pages-customizer.php:490
+msgid "To display only the border radius property, set border size to 0px."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:515
+#: inc/customizer/pagoda-navbar-customizer.php:612
+#: inc/customizer/pagoda-pages-customizer.php:495
+#: inc/customizer/pagoda-posts-customizer.php:518
+#: inc/customizer/pagoda-sidebars-customizer.php:387
+msgid "Render Border as Inset?"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:516
+#: inc/customizer/pagoda-navbar-customizer.php:613
+#: inc/customizer/pagoda-pages-customizer.php:496
+#: inc/customizer/pagoda-sidebars-customizer.php:388
+msgid ""
+"Note that this has no effect for borders when the fade property is set to "
+"0px."
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:521
+#: inc/customizer/pagoda-navbar-customizer.php:618
+#: inc/customizer/pagoda-pages-customizer.php:501
+#: inc/customizer/pagoda-posts-customizer.php:524
+#: inc/customizer/pagoda-sidebars-customizer.php:393
+msgid "Border Radius (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:525
+#: inc/customizer/pagoda-navbar-customizer.php:622
+#: inc/customizer/pagoda-pages-customizer.php:505
+#: inc/customizer/pagoda-posts-customizer.php:528
+#: inc/customizer/pagoda-sidebars-customizer.php:397
+msgid "Border Size (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:530
+#: inc/customizer/pagoda-navbar-customizer.php:176
+#: inc/customizer/pagoda-navbar-customizer.php:627
+#: inc/customizer/pagoda-pages-customizer.php:510
+#: inc/customizer/pagoda-posts-customizer.php:533
+#: inc/customizer/pagoda-sidebars-customizer.php:402
+msgid "Border Fade (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:537
+#: inc/customizer/pagoda-navbar-customizer.php:183
+#: inc/customizer/pagoda-navbar-customizer.php:634
+#: inc/customizer/pagoda-pages-customizer.php:436
+#: inc/customizer/pagoda-pages-customizer.php:517
+#: inc/customizer/pagoda-posts-customizer.php:460
+#: inc/customizer/pagoda-posts-customizer.php:540
+#: inc/customizer/pagoda-sidebars-customizer.php:409
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:546
+msgid "Button Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:547
+msgid "This font will be applied to all buttons"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:591
+#: inc/customizer/pagoda-header-customizer.php:611
+#: inc/customizer/pagoda-header-customizer.php:617
+#: inc/customizer/pagoda-header-customizer.php:629
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:592
+#: inc/customizer/pagoda-sections-customizer.php:128
+msgid "Data"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:612
+msgid "Label"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:618
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:630
+msgid " Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-header-customizer.php:645
+msgid "Color on Hover"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:25
+msgid "Pagoda Responsive Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:50
+#: inc/customizer/pagoda-mobile-customizer.php:58
+msgid "Header Responsive Options"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:66
+msgid "Phone Header Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:67
+msgid "Adjust the header height for phones"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:72
+msgid "Tablet Header Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:73
+msgid "Adjust the header height for tablets"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:78
+msgid "Adjust Image Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:79
+msgid "Adjust the height of the banner image for small screens"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:110
+#: inc/customizer/pagoda-mobile-customizer.php:145
+msgid "Navbar Responsive Options"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:119
+msgid "Show Scroll Icon (mobile)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:120
+msgid ""
+"This setting is dependent of the <strong>show scroll icon</strong> setting "
+"assigned for the homepage, pages, and posts when checked."
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:127
+#: inc/customizer/pagoda-navbar-customizer.php:84
+#: inc/customizer/pagoda-navbar-customizer.php:395
+#: inc/customizer/pagoda-navbar-customizer.php:521
+msgid "Show on Home?"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:132
+#: inc/customizer/pagoda-navbar-customizer.php:89
+#: inc/customizer/pagoda-navbar-customizer.php:400
+#: inc/customizer/pagoda-navbar-customizer.php:526
+msgid "Show on Pages?"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:137
+#: inc/customizer/pagoda-navbar-customizer.php:94
+#: inc/customizer/pagoda-navbar-customizer.php:405
+#: inc/customizer/pagoda-navbar-customizer.php:531
+msgid "Show on Posts?"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:146
+msgid ""
+"Note that in responsive mode, menu list items will be replaced by a menu icon"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:153
+msgid "Navbar Line Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:159
+msgid "Navbar Main Width (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:165
+msgid "Main Font Size (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:166
+msgid "Display a different font size for navbar menu items on mobile devices"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:171
+#: inc/customizer/pagoda-navbar-customizer.php:143
+msgid "Navbar Submenu Width (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:172
+msgid ""
+"In responsive mode, navbar submenus will appear to the right of the main "
+"navbar dropdown"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:177
+msgid "Submenu Font Size (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:178
+msgid "Display a different font size for navbar submenus on mobile devices"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:186
+msgid "Navbar Responsive Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:195
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:201
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:207
+#: inc/customizer/pagoda-navbar-customizer.php:217
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:213
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:230
+msgid "Section Responsive Options"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:246
+msgid "Responsive Sections"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:247
+msgid ""
+"Select which sections you would like to display on mobile devices. This "
+"option is useful when a given section displays widgets in fullscreen mode, "
+"but does not display widgets in responsive mode."
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:267
+msgid "Show Section"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:267
+msgid " (mobile)?"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:291
+msgid "Sidebar Responsive Options"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:299
+msgid "Responsive Sidebars"
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:300
+msgid ""
+"Select which sidebars you would like to display on mobile devices. On mobile "
+"devices your sidebars will always be rendered <strong>below</strong> the "
+"content area at full width."
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:308
+msgid "Show "
+msgstr ""
+
+#: inc/customizer/pagoda-mobile-customizer.php:308
+msgid " Sidebar (mobile)?"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:29
+msgid "Pagoda Navbar Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:66
+msgid "Navbar Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:75
+msgid "Show Navbar"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:76
+msgid ""
+"Select whether you would like to show the navbar on the homepage, pages, and "
+"posts respectively"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:111
+msgid "Select Site Logo"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:122
+msgid "Navbar Layout"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:130
+msgid "Logo Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:131
+msgid ""
+"This value also determines the line-height for menu items in the navigation "
+"bar"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:136
+msgid "Navbar Element Spacing (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:137
+msgid "Horizontal spacing between navigation menu items"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:144
+msgid "The width of navbar dropdown submenus"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:150
+msgid "Navbar Squeeze (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:151
+msgid ""
+"This value allows you to push the logo and menu items symmetrically towards "
+"the center of the page by the specified amount"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:162
+msgid "Navbar Border Properties"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:170
+msgid "Navbar Border Thickness"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:171
+msgid "Set the thickness of the bottom border of the navbar"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:193
+#: inc/customizer/pagoda-pages-customizer.php:382
+#: inc/customizer/pagoda-posts-customizer.php:406
+msgid "Navbar Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:209
+msgid "Background Color on Scroll"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:210
+msgid ""
+"The background color that will appear when scrolling beyond the top of the "
+"page"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:218
+msgid "The background color for dropdown submenus"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:226
+msgid "Submenu Item Color on Hover"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:227
+msgid "The background color for submenu list items when hovering over them"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:255
+msgid "Navbar Font Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:266
+msgid "Navbar Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:297
+msgid "Navbar Item Accents"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:305
+msgid "Accent Thickness"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:306
+msgid "Set the thickness of the bottom border for menu item accents"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:311
+msgid "Accent Fade"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:312
+msgid "Fade menu item accents? (0px = solid)"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:318
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:319
+msgid "The color of the underline accent when hovering over navbar items"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:328
+msgid "Navbar Submenu Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:376
+msgid "Navbar Search Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:386
+msgid "Show Search in Navbar"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:387
+msgid ""
+"Select whether you would like to show the search form on the homepage, "
+"pages, and posts respectively"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:414
+msgid "Search From Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:423
+msgid "Input Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:429
+msgid "Input Font Color"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:435
+msgid "Search Button Color"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:441
+msgid "Search Button Color on Hover"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:451
+msgid "Search Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:502
+msgid "Scroll to Top Icon Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:512
+msgid "Show Scroll Icon"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:513
+msgid ""
+"Select whether you would like to show the scroll to top icon on the "
+"homepage, pages, and posts respectively"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:542
+msgid "Scroll to Top Layout Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:550
+msgid "Position (CSS units)"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:551
+msgid "How far from the bottom right corner the icon appears."
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:557
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:562
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:563
+msgid "This determines the size of arrow element within the icon."
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:573
+#: inc/customizer/pagoda-pages-customizer.php:414
+#: inc/customizer/pagoda-posts-customizer.php:438
+msgid "Scroll to Top Icon Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:588
+#: inc/customizer/pagoda-pages-customizer.php:430
+#: inc/customizer/pagoda-posts-customizer.php:454
+msgid "Background Color on Hover"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:594
+#: inc/customizer/pagoda-pages-customizer.php:442
+#: inc/customizer/pagoda-posts-customizer.php:466
+msgid "Arrow Element Color"
+msgstr ""
+
+#: inc/customizer/pagoda-navbar-customizer.php:603
+msgid "Icon Border Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:32
+msgid "Pagoda Page Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:67
+msgid "Page Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:77
+#: inc/customizer/pagoda-posts-customizer.php:74
+msgid "Content Area Layout"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:86
+msgid "Set Page Header Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:87
+msgid "This setting will apply to all pages"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:92
+#: inc/customizer/pagoda-posts-customizer.php:89
+msgid "Main Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:93
+#: inc/customizer/pagoda-posts-customizer.php:90
+msgid ""
+"This setting controls how far the content area and sidebar(s) appear from "
+"the header(top), viewport edges(sides), and footer(bottom) of the page."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:98
+msgid "Page Wrap Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:99
+#: inc/customizer/pagoda-posts-customizer.php:96
+msgid ""
+"The padding of the entire content area relative to its neighbors (e.g "
+"sidebars)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:104
+#: inc/customizer/pagoda-posts-customizer.php:101
+msgid "Content Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:105
+#: inc/customizer/pagoda-posts-customizer.php:102
+msgid "The padding of your content relative to the content area."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:110
+msgid "Inter-Page Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:111
+msgid ""
+"The padding assigned the page's <article> tags. This setting is useful on "
+"pages with multiple posts (i.e. archive, search, etc.)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:117
+#: inc/customizer/pagoda-posts-customizer.php:114
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:118
+#: inc/customizer/pagoda-posts-customizer.php:115
+msgid "Alignment will apply to all items within the content area"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:128
+#: inc/customizer/pagoda-posts-customizer.php:125
+#: inc/customizer/pagoda-sidebars-customizer.php:89
+msgid "Header Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:129
+#: inc/customizer/pagoda-posts-customizer.php:126
+msgid ""
+"This controls the font for all html header tags within the page content area "
+"(h1, h2, h3, h4, h5, h6)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:134
+#: inc/customizer/pagoda-posts-customizer.php:131
+#: inc/customizer/pagoda-sidebars-customizer.php:95
+msgid "Header Font Family"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:140
+#: inc/customizer/pagoda-posts-customizer.php:137
+#: inc/customizer/pagoda-sidebars-customizer.php:101
+msgid "Header Font Variant"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:151
+#: inc/customizer/pagoda-posts-customizer.php:148
+#: inc/customizer/pagoda-sidebars-customizer.php:117
+msgid "Text Font Control"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:152
+#: inc/customizer/pagoda-posts-customizer.php:149
+#: inc/customizer/pagoda-sidebars-customizer.php:118
+msgid ""
+"All available variants will be enqueued for the selected font. Use your own "
+"CSS to apply additional variants."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:157
+#: inc/customizer/pagoda-posts-customizer.php:154
+#: inc/customizer/pagoda-sidebars-customizer.php:123
+msgid "Text Font Family"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:163
+#: inc/customizer/pagoda-posts-customizer.php:160
+#: inc/customizer/pagoda-sidebars-customizer.php:129
+msgid "Text Font Variant"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:169
+#: inc/customizer/pagoda-posts-customizer.php:166
+#: inc/customizer/pagoda-sidebars-customizer.php:135
+msgid "Link Font Variant"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:175
+#: inc/customizer/pagoda-posts-customizer.php:172
+msgid "Bold Font Variant"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:181
+#: inc/customizer/pagoda-posts-customizer.php:178
+#: inc/customizer/pagoda-sidebars-customizer.php:141
+#: inc/customizer/pagoda-sidebars-customizer.php:477
+msgid "Text Font Size (px)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:187
+#: inc/customizer/pagoda-posts-customizer.php:184
+msgid "Blockquote Font Size (px)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:193
+#: inc/customizer/pagoda-posts-customizer.php:190
+msgid "Metadata Font Size (px)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:283
+msgid "(Toplevel Styles)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:308
+msgid "Page Toplevel Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:309
+msgid ""
+"<p> If this option is selected, then one will be able to customize the "
+"headers and content area all toplevel pages. <strong>(max 12 toplevel pages)"
+"</strong></p><p> Note that <strong> child pages will automatically inherit "
+"the header properties defined for their respective toplevel page</strong>. "
+"Please refresh the customizer after changing this option. </p>"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:327
+#: inc/customizer/pagoda-posts-customizer.php:351
+msgid "Inherit Defaults?"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:328
+msgid ""
+"If selected, then header data for this page group will be inherited from the "
+"default page styles. <br><br> Note: Customizer refresh is required after "
+"changing per-page header inheritance options."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:348
+msgid "Page Header Image"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:349
+msgid "Select page header background image."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:370
+#: inc/customizer/pagoda-posts-customizer.php:394
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:371
+#: inc/customizer/pagoda-posts-customizer.php:395
+msgid ""
+"This header background will default to this color when an image is not "
+"selected"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:383
+#: inc/customizer/pagoda-posts-customizer.php:407
+msgid "Select the navbar color, navbar scroll color, and search field color."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:391
+#: inc/customizer/pagoda-posts-customizer.php:415
+msgid "Navbar Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:397
+#: inc/customizer/pagoda-posts-customizer.php:421
+msgid "Navbar Color on Scroll"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:403
+#: inc/customizer/pagoda-posts-customizer.php:427
+msgid "Search Field Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:415
+#: inc/customizer/pagoda-posts-customizer.php:439
+msgid "Select the color palette for the scroll to top icon."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:454
+#: inc/customizer/pagoda-posts-customizer.php:478
+msgid "Content Area Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:455
+#: inc/customizer/pagoda-posts-customizer.php:479
+msgid "Select the default background colors for the page and content area."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:463
+#: inc/customizer/pagoda-posts-customizer.php:487
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:469
+#: inc/customizer/pagoda-posts-customizer.php:493
+msgid "Content Area Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:480
+#: inc/customizer/pagoda-posts-customizer.php:504
+msgid "Content Area Border"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:529
+#: inc/customizer/pagoda-posts-customizer.php:551
+msgid "Text Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:530
+#: inc/customizer/pagoda-posts-customizer.php:552
+msgid "Select color palette for page text, various html elements, and links."
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:538
+#: inc/customizer/pagoda-posts-customizer.php:560
+#: inc/customizer/pagoda-sidebars-customizer.php:504
+msgid "Header Font Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:539
+#: inc/customizer/pagoda-posts-customizer.php:561
+msgid "Defines <h1> ... <h6> color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:545
+#: inc/customizer/pagoda-posts-customizer.php:567
+#: inc/customizer/pagoda-sidebars-customizer.php:482
+#: inc/customizer/pagoda-sidebars-customizer.php:510
+msgid "Text Font Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:546
+#: inc/customizer/pagoda-posts-customizer.php:568
+msgid "Defines <p> <ul> <ol> <li> color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:552
+#: inc/customizer/pagoda-posts-customizer.php:574
+#: inc/customizer/pagoda-sidebars-customizer.php:516
+msgid "Link Font Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:553
+#: inc/customizer/pagoda-posts-customizer.php:575
+msgid "Defines <a> color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:559
+#: inc/customizer/pagoda-posts-customizer.php:581
+#: inc/customizer/pagoda-sidebars-customizer.php:522
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:560
+#: inc/customizer/pagoda-posts-customizer.php:582
+msgid "Defines a:hover color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:566
+#: inc/customizer/pagoda-posts-customizer.php:588
+msgid "Bold Font Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:567
+#: inc/customizer/pagoda-posts-customizer.php:589
+msgid "Defines <b> <strong> color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:573
+#: inc/customizer/pagoda-posts-customizer.php:595
+#: inc/customizer/pagoda-sidebars-customizer.php:528
+msgid "Input Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:574
+#: inc/customizer/pagoda-posts-customizer.php:596
+msgid "Defines <input> background color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:580
+#: inc/customizer/pagoda-posts-customizer.php:602
+#: inc/customizer/pagoda-sidebars-customizer.php:534
+msgid "Submit Hover Color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:581
+#: inc/customizer/pagoda-posts-customizer.php:603
+msgid "Defines button <input>:hover color"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:592
+#: inc/customizer/pagoda-posts-customizer.php:614
+msgid "Content Area Frames"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:593
+#: inc/customizer/pagoda-posts-customizer.php:615
+#: inc/customizer/pagoda-sidebars-customizer.php:547
+msgid "Select Border Properties for <img>, <input>, and <textarea> tags"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:600
+#: inc/customizer/pagoda-posts-customizer.php:622
+msgid "Frame <img>?"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:606
+#: inc/customizer/pagoda-posts-customizer.php:628
+msgid "Frame <input>?"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:612
+#: inc/customizer/pagoda-posts-customizer.php:634
+msgid "Frame <input> as Inset?"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:617
+#: inc/customizer/pagoda-posts-customizer.php:639
+#: inc/customizer/pagoda-sidebars-customizer.php:566
+msgid "Frame Radius (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:621
+#: inc/customizer/pagoda-posts-customizer.php:643
+#: inc/customizer/pagoda-sidebars-customizer.php:570
+msgid "Frame Size (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:626
+#: inc/customizer/pagoda-posts-customizer.php:648
+#: inc/customizer/pagoda-sidebars-customizer.php:575
+msgid "Frame Fade (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-pages-customizer.php:633
+#: inc/customizer/pagoda-posts-customizer.php:655
+#: inc/customizer/pagoda-sidebars-customizer.php:582
+msgid "Frame Color"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:31
+msgid "Pagoda Post Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:64
+msgid "Post Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:83
+msgid "Set Post Header Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:84
+msgid "This setting will apply to all posts"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:95
+msgid "Post Wrap Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:107
+msgid "Inter-Post Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:108
+msgid ""
+"The padding assigned the post's <article> tags. This setting is useful on "
+"pages with multiple posts (i.e. archive, search, etc.)"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:307
+msgid "(Category Styles)"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:332
+msgid "Post Category Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:333
+msgid ""
+"<p> If checked, then one will be able to define a unique style for each "
+"toplevel post category. <strong> (max 12 toplevel categories)</strong>. "
+"Category styles can be assigned via the <strong>category styles metabox</"
+"strong> when creating and updating posts.</p>"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:352
+msgid ""
+"If selected, then all style data will be inherited from the <strong>post "
+"default styles</strong> <br><br> <strong>Note:</strong> Customizer refresh "
+"is required after changing this option."
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:372
+msgid "Post Header Image"
+msgstr ""
+
+#: inc/customizer/pagoda-posts-customizer.php:373
+msgid ""
+"Select post header background image. If none is selected, then the "
+"background color will be used"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:26
+msgid "Pagoda Section Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:27
+msgid ""
+"Note that all sections are widgetized areas which can be further customized "
+"by adding stock or custom widgets"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:51
+msgid "Section Data Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:67
+msgid "Section Data Options"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:68
+msgid ""
+"This panel allows you to selectively enable and disable frontpage sections, "
+"set section <strong>HTML IDs</strong>, as well as select your "
+"<strong>section order</strong>. Each section is assigned a priority and "
+"sections will be displayed in order of increasing priority. Note that "
+"sections with identical priority will be displayed sequentially."
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:86
+msgid "HTML id for Section"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:93
+msgid "Section Priority"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:99
+msgid "Show this Section?"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:127
+msgid "Section"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:140
+msgid "Section Layout"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:149
+msgid "Section Height (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:150
+msgid "Select a fixed height for this section units (0=auto)."
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:156
+msgid "Section Padding (CSS Units)"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:157
+msgid ""
+"Select padding values this section. For horizontal padding, it is "
+"recommended to use responsive units (vw)"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:169
+msgid "Section Display Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:178
+msgid "Section Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:179
+msgid ""
+"If no background image is selected then the background will default to this "
+"color"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:190
+msgid "Contain Background?"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:191
+msgid "Scale background images to fill section area?"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:197
+msgid "Parallax Effect"
+msgstr ""
+
+#: inc/customizer/pagoda-sections-customizer.php:198
+msgid "Enable parallax effect for this section's background image?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:30
+msgid "Pagoda Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:61
+msgid "Sidebar Font Settings"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:79
+msgid "Sidebar Font Colors"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:80
+msgid ""
+"Font colors can be assinged individually for each sidebar in its associated "
+"customizer panel"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:90
+msgid ""
+"This controls the font for all html header tags within sidebars (h1, h2, h3, "
+"h4, h5, h6)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:107
+msgid "Header Font Size (px)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:162
+msgid "Assign Sidebar Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:179
+msgid "Activate Sidebar Styles?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:180
+msgid ""
+"If checked, then one will be able to define multiple sidebar styles. Each "
+"sidebar can then be assigned a unique style via the data control below. "
+"<strong>customizer refresh required</strong>"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:189
+msgid "Sytle"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:210
+msgid "Sidebar Title"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:217
+msgid "Sidebar Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:270
+msgid "Sidebar Default Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:273
+msgid "Sidebar Sytles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:295
+msgid "Sidebar Layout Control"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:304
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:305
+msgid ""
+"Note that the widths as indicated include the sidebar's padding. This is the "
+"total width that the sidebar element will consume."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:310
+msgid "Sidebar Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:311
+msgid ""
+"Relative placement of the entire sidebar with respect to its neighboring "
+"elements"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:316
+msgid "Content Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:317
+msgid "The padding of sidebar content relative to inner edges of the sidebar."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:322
+msgid "Widget Padding (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:323
+msgid "The padding applied to individual widgets within the sidebar."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:328
+msgid "Title Margin (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:329
+msgid "Defines margins for the sidebar title area (optional)."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:334
+msgid "Content Margin (CSS shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:335
+msgid "Defines margins for the sidebar content area (optional)."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:341
+msgid "Widget Area Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:347
+msgid "Aside Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:348
+msgid ""
+"Defines a backgroud color for the sidebar container for rgba color "
+"compositing"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:360
+msgid "Sidebar Border Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:370
+msgid ""
+"To display only the border radius property, set the border size and border "
+"fade to 0px."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:375
+msgid "Fused Sidebar?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:376
+msgid ""
+"When checked, internal corners between the title and widget area will remain "
+"square providing a fused sidebar look."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:381
+msgid "Render on Elements?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:382
+msgid ""
+"When checked, border properties will be rendered on the sidebar title and "
+"content area independently."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:420
+msgid "Sidebar Title Styles"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:429
+msgid "Show Title Block?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:436
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:441
+msgid "Title Padding (CSS Shorthand)"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:447
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:465
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:471
+msgid "Title Font Variant"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:495
+msgid "Sidebar Text Color Palette"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:496
+msgid "Select the color palette to be used for fonts in this sidebar."
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:546
+msgid "Sidebar Frames"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:554
+msgid "Show Frames?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:560
+msgid "Render as Inset?"
+msgstr ""
+
+#: inc/customizer/pagoda-sidebars-customizer.php:561
+msgid "Applies only to <input> and <textarea>"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:143
+msgid "Next page"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:144
+msgid "Previous page"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:178
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:179
+msgid "1 Comment"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:180
+msgid "% Comments"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:228
+msgid "Previous"
+msgstr ""
+
+#: inc/nablafire-utils/data-utils/Nablafire-Templates.php:229
+msgid "Next"
+msgstr ""
+
+#: inc/nablafire-utils/theme-utils/font-control/Nablafire-Customize-Font-Control.php:24
+msgid "Font Family"
+msgstr ""
+
+#: inc/nablafire-utils/theme-utils/font-control/Nablafire-Customize-Font-Control.php:51
+msgid "Font Variant"
+msgstr ""
+
+#: inc/nablafire-utils/theme-utils/font-control/Nablafire-Customize-Font-Control.php:78
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/nablafire-utils/theme-utils/font-control/Nablafire-Customize-Font-Control.php:103
+msgid "Font Color (rgba)"
+msgstr ""
+
+#: inc/pagoda.php:221
+msgid "Failed to generate CSS file"
+msgstr ""
+
+#: inc/pagoda.php:240
+msgid "Pagoda Navbar"
+msgstr ""
+
+#: searchform.php:22
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:32
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-arxiv.php:64
+msgid "Continue Reading ..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Pagoda"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://pagoda.nablafire.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Pagoda Wordpress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nablafire"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.nablafire.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Both Sidebars"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebars"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Post Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar"
+msgstr ""

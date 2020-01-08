@@ -1,0 +1,323 @@
+/********************************************/
+/*             	  USER CSS                  */
+/********************************************/
+
+/************************************/
+/*  	    Contact Form 7 			*/
+/************************************/
+.pagoda-contact-wrap{
+	display: block;
+}
+.pagoda-contact{
+	padding: 10px 30px 10px 30px;
+	border-radius: 0px;
+	border: solid 2px #999;
+	width: 300px;
+	margin: 0 auto;
+}
+.pagoda-contact h2{
+	margin: 0;
+	padding-top: 10px;
+}
+@media all and (max-width:480px){
+	.pagoda-contact{
+		padding: 10px 0px;
+		border: none;
+	}
+	.pagoda-contact input, 
+	.pagoda-contact select, 
+	.pagoda-contact textarea{
+		border-color: #666;
+	}
+}
+.wpcf7 {
+	width: 100%;
+}
+.wpcf7-form > p {
+	margin: 0;
+}
+.wpcf7-form-control.wpcf7-text {
+	width : 100%;
+	font-size: 14px;
+	color: #666;
+	background: #fff;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 0px;
+	border: solid 1px #999;	
+}
+.wpcf7-form-control.wpcf7-textarea{
+	width : 100%;
+	height: 125px;
+	font-size: 14px;
+	background: #fff;
+	color: #666;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 0px;
+	border: solid 1px #999;
+}
+.wpcf7-form-control.wpcf7-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    background: #fff;
+	border: none;
+	width : 100%;
+	font-size: 14px;
+	color: #ADADAD;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 0px;
+	border: solid 1px #999;
+}
+.wcf7-select-span {
+    overflow: hidden; 
+    position: relative;
+    display: block;
+}
+.wcf7-select-span:after {
+    content:"\f0d7";
+    font-family: FontAwesome;
+    color: #999;
+    position: absolute; right: 0; top: 0;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 100%;      
+    pointer-events: none;
+    box-sizing: border-box;   
+	padding-top: 2px;
+}
+.wpcf7-form-control.wpcf7-select option{
+	color: #999;
+}
+.wpcf7-form-control.g-recaptcha {
+	padding: 0;
+	border: none;
+}
+.wpcf7-form-control.wpcf7-submit {
+	font-size: 14px;
+	padding: 10px;
+	width: 100px;
+	box-sizing: border-box;
+	border-radius: 0px;
+	border: solid 1px #999;
+}
+.wpcf7-form-control.wpcf7-submit:hover{
+	background-color: #999;
+	transition: background-color 500ms ease-out;
+}
+span.wpcf7-not-valid-tip {
+	font-weight: 700 !important;
+	font-size: 10px !important;
+	float: left;
+	color: blue;
+}
+.wpcf7-response-output{
+	font-family: Montserrat;
+	font-size: 12px !important;
+	border: solid 2px blue !important;
+	background-color: #dbddff !important;
+	color: #666;
+	margin: 5px 0 !important;
+}
+/* Begin User CSS */
+
+/********************************************/
+/*            DEMO SITE STYLES              */
+/********************************************/
+/*			pagoda.nablafire.com 			*/
+/********************************************/
+
+/************************************/
+/*   	   Tutorial Styles 			*/
+/************************************/
+
+/* Image border and layout */
+.pagoda-post-content-wrap .tutorial-image-wrap{
+	text-align: center;
+	padding-bottom: 20px;
+}
+@media all and (max-width:480px){
+	.pagoda-post-content-wrap .tutorial-image-wrap > img{
+		width: 100%;
+		height: auto;
+	}
+}
+
+/* Inline Images */
+.pagoda-post-content-wrap .tutorial-image-contain{
+	width: 100%;
+	overflow: auto;
+	text-align: center;
+}
+.pagoda-post-content-wrap .tutorial-image-inline{
+	display: inline-block;
+	vertical-align: top;
+	width:30%;
+	padding:0px 5px;
+	box-sizing: border-box; 
+}
+@media all and (max-width:480px){
+	.pagoda-post-content-wrap .tutorial-image-contain{
+		overflow: unset;
+	}
+	.pagoda-post-content-wrap .tutorial-image-inline{
+		display: block;
+		width: 100%;
+		padding: 5px 0px; 
+	}
+}
+
+/* Dynamic content area */
+.pagoda-post-content-wrap .tutorial-auto{
+	overflow:auto;
+	padding-top: 20px;
+}
+.pagoda-post-content-wrap .tutorial-left{
+	float:left;
+	padding-right:20px;
+}
+.pagoda-post-content-wrap .tutorial-right{
+	float:right;
+	padding-left:20px;
+}
+
+.pagoda-post-content-wrap .tutorial-hidden{
+	overflow: hidden;
+}
+
+.pagoda-post-content-wrap .tutorial-hidden p{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+.pagoda-post-content-wrap .tutorial-hidden h1,
+.pagoda-post-content-wrap .tutorial-hidden h2,
+.pagoda-post-content-wrap .tutorial-hidden h3,
+.pagoda-post-content-wrap .tutorial-hidden h4,
+.pagoda-post-content-wrap .tutorial-hidden h5,
+.pagoda-post-content-wrap .tutorial-hidden h6{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+@media all and (max-width:480px){
+	.pagoda-post-content-wrap .tutorial-auto{
+		overflow: unset;
+	}
+	.pagoda-post-content-wrap .tutorial-left,
+	.pagoda-post-content-wrap .tutorial-right{
+		display: block;
+		width: 100%;
+	}
+	.pagoda-post-content-wrap .tutorial-hidden{
+		overflow: auto;
+		display: block;
+		width: 100%;
+	}
+}
+
+/* Tutorial Menu */
+.menu-tutorial-container{
+	font-weight: 500;
+	text-align: center;
+}
+.menu-tutorial-container ul{
+	text-align: left;
+	padding-left: 40px;
+	padding-right: 30px;
+}
+.menu-tutorial-container li > ul {
+	padding-left: 20px;
+}
+@media all and (max-width:980px){
+	.menu-tutorial-container ul{
+		padding-left: 20px;
+		padding-right: 10px;		
+	}
+}
+
+/************************************/
+/*   	    Sidebar Styles 			*/
+/************************************/
+
+/* Overwrite sidebar styles */
+.pagoda-post-wrap-templates .pagoda-sidebar-title-area-blog,
+.pagoda-post-wrap-templates .pagoda-sidebar-widget-area-blog {
+	background-color: #CBBFB9;
+	box-shadow: 0 0 3px 3px #70584A inset;
+}
+.pagoda-post-wrap-templates .pagoda-sidebar-blog.title {
+	background-color: #CBBFB9;
+	color: #59453C;
+}
+
+.pagoda-post-wrap-templates .pagoda-sidebar-blog p,
+.pagoda-post-wrap-templates .pagoda-sidebar-blog a,
+.pagoda-post-wrap-templates .pagoda-sidebar-blog ul {
+	color: #59453C;
+}
+
+.pagoda-post-wrap-templates .pagoda-sidebar-blog a:hover {
+	color: #4A7058;
+}
+
+
+/* Overwrite search in sidebar styles */
+.pagoda-sidebar-wrap-left .pagoda-search-wrap{
+	padding: 5px 0px;
+	width: 100%;
+}
+
+.pagoda-sidebar-wrap-left .pagoda-search-form{
+	display: inline-flex;
+	padding: 0px 5px;
+}
+
+.pagoda-sidebar-wrap-left .pagoda-search-field-wrap{
+	max-width: 100%;
+	box-sizing: border-box;
+}
+
+.pagoda-sidebar-wrap-left .pagoda-search-field-wrap input{
+	width: 100%;
+}
+
+.pagoda-sidebar-wrap-left .pagoda-search-submit-wrap {
+	float: right;
+}
+
+/* Dont bother to restyle this for the test site */
+@media all and (max-width:1280px){
+	.pagoda-sidebar-wrap-l .pagoda-search-wrap{
+		display: block;
+	}
+}
+@media all and (max-width:980px){
+	.pagoda-sidebar-wrap-l .pagoda-search-wrap{
+		display: none;
+	}
+}
+
+/************************************/
+/*  		Contact Page 			*/
+/************************************/
+
+/* Reduce Padding for Contact Page */
+.pagoda-page-wrap-1178{
+	padding: 0px;
+}
+
+/* Responsive rules to center form */
+@media all and (max-width:480px){
+	.pagoda-page-content-wrap-1178{
+		width:100vw;
+		box-sizing: border-box;
+	}
+	.blog-post.post-1178{
+		padding: 0px;
+	}
+}

@@ -1,0 +1,568 @@
+{	
+
+	"config" : {
+
+		"panels" : {
+			"pagoda_customize_show_header" 		: "",
+			"pagoda_customize_show_navbar" 		: "",			
+			"pagoda_customize_show_sections" 	: "",
+			"pagoda_customize_show_footer" 		: "",
+			"pagoda_customize_show_sidebars" 	: "",
+			"pagoda_customize_show_pages" 		: "",
+			"pagoda_customize_show_posts" 		: "",
+			"pagoda_customize_show_mobile"		: ""
+		},
+
+		"display" : {
+			"pagoda_customize_home_sidebar"		: "",
+			"pagoda_customize_home_excerpt"		: "",
+			"pagoda_customize_home_featured"	: ""
+		}
+	},
+
+	"header" : {
+		
+		"display" : {
+
+			"u" : {
+ 				"pagoda_header_show_image"		: "1",
+ 				"pagoda_header_show_title"		: "1",
+ 				"pagoda_header_show_subtitle"	: "1",
+ 				"pagoda_header_show_buttons"	: "1",
+				"pagoda_splash_color" 			: "#000",
+				"pagoda_splash_height"			: "100vh",
+				"pagoda_splash_displace"		: "0",
+				"pagoda_splash_opacity"			: "100",
+ 				"pagoda_splash_contain"			: "",
+ 				"pagoda_splash_parallax"		: "",
+ 				"pagoda_splash_animate"			: "",
+ 				"pagoda_splash_delta"			: "8000"
+			},
+			
+			"i" : {				
+				"pagoda_splash_image_"		: "",
+ 				"pagoda_splash_switch_"		: ""
+ 			}
+		},
+
+		"banner" : {			
+			"pagoda_banner_img_source"		: "",				
+			"pagoda_banner_img_height"		: "130px",
+			"pagoda_banner_img_push"		: "25vh",
+			"pagoda_banner_mn_text"			: "Pagoda",
+			"pagoda_banner_mn_margin"		: "0px 0px 0px 0px",
+			"pagoda_banner_mn_font_fam"		: "Montserrat",
+			"pagoda_banner_mn_font_var"		: "700",
+			"pagoda_banner_mn_font_size"	: "32",
+			"pagoda_banner_mn_font_color"	: "#fff",
+			"pagoda_banner_sb_text"			: "Engineered by Nablafire",
+			"pagoda_banner_sb_margin"		: "0px 0px 10px 0px",
+			"pagoda_banner_sb_font_fam"		: "Montserrat",
+			"pagoda_banner_sb_font_var"		: "italic",
+			"pagoda_banner_sb_font_size"	: "16",
+			"pagoda_banner_sb_font_color"	: "#fff"
+		},
+
+		"buttons": {
+
+			"u" : {
+				"pagoda_button_mn_padding"	: "10px 10px 10px 10px",
+ 				"pagoda_button_mn_margin"	: "10px 10px 10px 10px",
+				"pagoda_button_mn_height"	: "25px",
+				"pagoda_button_mn_width"	: "100px",
+				"pagoda_button_mn_delta"	: "500",
+				"pagoda_button_bd_show"		: "1",
+				"pagoda_button_bd_inset"	: "",
+				"pagoda_button_bd_radius"	: "5px",
+				"pagoda_button_bd_size"		: "2px",
+				"pagoda_button_bd_fade"		: "2px",
+				"pagoda_button_bd_color"	: "#eee",
+ 				"pagoda_button_font_fam"	: "Montserrat",
+				"pagoda_button_font_var"	: "500",
+				"pagoda_button_font_size"	: "16",
+				"pagoda_button_font_color"	: "#fff"
+
+			},
+			
+			"i" : {
+				"pagoda_button_data_label_"	: "Button ",
+				"pagoda_button_data_link_"	: "#",	
+				"pagoda_button_bg_color_"	: "#666",
+				"pagoda_button_bg_hover_"	: "#000"
+			}
+		}
+	},
+			
+	"navbar" : {
+
+		"main" : {
+			"pagoda_navbar_show_home"	: "1",
+			"pagoda_navbar_show_page"	: "1",
+			"pagoda_navbar_show_post"	: "1",
+			"pagoda_navbar_logo_img"	: "",
+			"pagoda_navbar_logo_height"	: "50px",
+			"pagoda_navbar_mn_squeeze"	: "100px",
+			"pagoda_navbar_mn_spacing"	: "15px",
+			"pagoda_navbar_sb_width"	: "150px",
+			"pagoda_navbar_bd_size"		: "2px",			
+			"pagoda_navbar_bd_fade"		: "0px",			
+			"pagoda_navbar_bd_color"	: "#999",
+			"pagoda_navbar_bg_color"	: "#666",
+			"pagoda_navbar_sc_color"	: "#000",
+			"pagoda_navbar_sb_color"	: "#666",
+			"pagoda_navbar_sb_hover"	: "#000"
+		},
+
+		"fonts" : {
+			"pagoda_navbar_mn_font_fam"		: "Montserrat",
+			"pagoda_navbar_mn_font_var"		: "500",
+			"pagoda_navbar_mn_font_size"	: "16",
+			"pagoda_navbar_mn_font_color"	: "#fff",
+			"pagoda_navbar_ac_size"			: "2px",
+			"pagoda_navbar_ac_fade"			: "0px",
+			"pagoda_navbar_ac_color"		: "#fff",
+			"pagoda_navbar_sb_font_fam"		: "Montserrat",
+			"pagoda_navbar_sb_font_var"		: "regular",
+			"pagoda_navbar_sb_font_size"	: "14",
+			"pagoda_navbar_sb_font_color"	: "#ccc"
+		},
+
+		"search" : {
+			"pagoda_search_show_home"		: "1",
+			"pagoda_search_show_page"		: "1",
+			"pagoda_search_show_post"		: "1",						
+			"pagoda_search_tx_color"		: "#fff",
+			"pagoda_search_tx_font_color"	: "#000",
+			"pagoda_search_bt_color"		: "#000",
+			"pagoda_search_bt_hover"		: "#666",
+			"pagoda_search_bt_font_fam"		: "Montserrat",
+			"pagoda_search_bt_font_var"		: "500",
+			"pagoda_search_bt_font_size"	: "14",
+			"pagoda_search_bt_font_color"	: "#fff"
+		},	
+
+		"scroll" : {
+			"pagoda_scroll_show_home"	: "1",
+			"pagoda_scroll_show_page"	: "1",
+			"pagoda_scroll_show_post"	: "1",	
+			"pagoda_scroll_position"	: "20px",
+			"pagoda_scroll_ic_size"		: "40px",
+			"pagoda_scroll_fa_size"		: "24px",
+			"pagoda_scroll_bg_color"	: "#000",				
+			"pagoda_scroll_bg_hover"	: "#666", 
+			"pagoda_scroll_fa_color"	: "#fff",
+			"pagoda_scroll_bd_inset"	: "",
+			"pagoda_scroll_bd_radius"	: "5px",
+			"pagoda_scroll_bd_size"		: "2px",	
+			"pagoda_scroll_bd_fade"		: "2px",
+			"pagoda_scroll_bd_color"	: "#eee"
+		}
+	},
+
+	"mobile" : {
+		
+		"header" : {
+			"pagoda_banner_m_phone"		: "100vh",
+			"pagoda_banner_m_tablet"	: "70vh",
+			"pagoda_banner_m_img_height": "110px"
+		},
+
+		"navbar" : {
+			"pagoda_scroll_m_show_home"	: "1",
+			"pagoda_scroll_m_show_page"	: "1",
+			"pagoda_scroll_m_show_post"	: "1",
+			"pagoda_navbar_m_height"	: "50px",
+			"pagoda_navbar_m_width"		: "100px",
+			"pagoda_navbar_m_subwidth"	: "120px",
+			"pagoda_navbar_m_fontsize"	: "16px",
+			"pagoda_navbar_m_subfsize"	: "16px",
+			"pagoda_navbar_m_mn_color"	: "#000",
+			"pagoda_navbar_m_mn_hover"	: "#999",
+			"pagoda_navbar_m_sb_color"	: "#000",
+			"pagoda_navbar_m_sb_hover"	: "#999"
+		},
+
+		"sidebars" : {
+			"pagoda_sidebars_m_show_left"	: "1",
+			"pagoda_sidebars_m_show_right"	: "1",
+			"pagoda_sidebars_m_show_blog"	: "1",
+			"pagoda_sidebars_m_show_post"	: "1",
+			"pagoda_sidebars_m_show_arxiv"	: "1",
+			"pagoda_sidebars_m_show_home"	: "1"
+		},
+
+		"sections" : {
+			"pagoda_sections_m_show_"	: "1"
+		}
+	},
+
+	"sections" : {
+
+		"config" : {
+			"pagoda_section_data_priority_"		: "10",
+			"pagoda_section_data_html_id_"		: "#", 
+			"pagoda_section_data_show_" 		: "1"	
+		},
+
+		"display" : {	
+			"pagoda_section_display_height_"	: "0",
+			"pagoda_section_display_padding_"	: "0px 0vw",	
+			"pagoda_section_display_color_"		: "#eee",
+			"pagoda_section_display_displace_"	: "0",
+			"pagoda_section_display_contain_"	: "1",
+			"pagoda_section_display_parallax_"	: "",
+			"pagoda_section_display_img_"		: ""
+		}
+	},  
+
+	"pages"	 : {
+
+		"display" : {
+
+			"pagoda_page_display_mn_height"		: "200px",
+			"pagoda_page_display_mn_padding"	: "20px 50px",
+			"pagoda_page_display_mn_content_a"	: "20px 10px",
+			"pagoda_page_display_mn_content_w"	: "40px 0px",
+			"pagoda_page_display_mn_article"	: "10px 60px",
+			"pagoda_page_display_mn_align"		: "left",
+			"pagoda_page_display_h_font_fam"	: "Montserrat",
+			"pagoda_page_display_h_font_var"	: "regular",
+			"pagoda_page_display_p_font_fam"	: "Montserrat",
+			"pagoda_page_display_p_font_var"	: "regular",
+			"pagoda_page_display_a_font_var"	: "700",
+			"pagoda_page_display_b_font_var"	: "700",
+			"pagoda_page_display_p_font_size"	: "18",
+			"pagoda_page_display_p_blqt_size"	: "24",
+			"pagoda_page_display_p_meta_size"	: "14"
+		},
+
+		"data" : {
+
+			"header" : {
+			 	"pagoda_page_styles_activate"	: "",
+				"pagoda_page_header_inherit_"	: "",
+				"pagoda_page_header_img_"		: "",			
+				"pagoda_page_header_bg_color_"	: "#000"
+			},
+
+			"navbar" : {
+				"pagoda_page_navbar_nv_color_"	: "#666",
+				"pagoda_page_navbar_sc_color_"	: "#000",
+				"pagoda_page_navbar_sr_color_"	: "#fff"
+			},
+
+			"scroll" : {
+				"pagoda_page_scroll_bg_color_"	: "#000",				
+				"pagoda_page_scroll_bg_hover_"	: "#666", 
+				"pagoda_page_scroll_bd_color_"	: "#999",	
+				"pagoda_page_scroll_fa_color_"	: "#fff" 	
+			},
+
+			"border" : {
+				"pagoda_page_border_show_"		: "",
+				"pagoda_page_border_inset_"		: "",
+				"pagoda_page_border_radius_"	: "0px",
+				"pagoda_page_border_size_"		: "5px",
+				"pagoda_page_border_fade_"		: "5px",
+				"pagoda_page_border_color_"		: "#ccc"
+			},
+
+			"content" : {
+				"pagoda_page_content_bg_color_"	: "#eee",
+				"pagoda_page_content_mn_color_"	: "#fff",
+				"pagoda_page_content_h_color_"	: "#444",
+				"pagoda_page_content_p_color_"	: "#666",
+				"pagoda_page_content_a_color_"	: "#000",
+				"pagoda_page_content_a_hover_"	: "#666",
+				"pagoda_page_content_b_color_"	: "#444",
+				"pagoda_page_content_in_color_"	: "#eee",
+				"pagoda_page_content_in_hover_"	: "#ddd"
+			},
+
+			"frames" : {
+				"pagoda_page_frames_image_"		: "",
+				"pagoda_page_frames_input_"		: "",
+				"pagoda_page_frames_inset_"		: "",
+				"pagoda_page_frames_radius_"	: "0px",
+				"pagoda_page_frames_size_"		: "2px",
+				"pagoda_page_frames_fade_"		: "2px",
+				"pagoda_page_frames_color_"		: "#ccc"
+			}
+		}
+	},	
+
+	"posts"	: {
+
+		"display" : {
+
+			"pagoda_post_display_mn_height"		: "200px",
+			"pagoda_post_display_mn_padding"	: "20px 50px",
+			"pagoda_post_display_mn_content_a"	: "20px 10px",
+			"pagoda_post_display_mn_content_w"	: "40px 0px",
+			"pagoda_post_display_mn_article"	: "10px 60px",
+			"pagoda_post_display_mn_align"		: "left",
+			"pagoda_post_display_h_font_fam"	: "Montserrat",
+			"pagoda_post_display_h_font_var"	: "regular",
+			"pagoda_post_display_p_font_fam"	: "Montserrat",
+			"pagoda_post_display_p_font_var"	: "regular",
+			"pagoda_post_display_a_font_var"	: "700",
+			"pagoda_post_display_b_font_var"	: "700",
+			"pagoda_post_display_p_font_size"	: "18",
+			"pagoda_post_display_p_blqt_size"	: "24",
+			"pagoda_post_display_p_meta_size"	: "14"
+		},
+
+		"data" : {
+	
+			"header" : {
+				"pagoda_post_styles_activate"	: "",
+				"pagoda_post_header_inherit_"	: "",
+				"pagoda_post_header_img_"		: "",     
+				"pagoda_post_header_bg_color_"	: "#000"
+			},
+
+			"navbar" : {
+				"pagoda_post_navbar_nv_color_"	: "#666",
+				"pagoda_post_navbar_sc_color_"	: "#000",
+				"pagoda_post_navbar_sr_color_"	: "#fff"
+			},
+
+			"scroll" : {
+				"pagoda_post_scroll_bg_color_"	: "#000",       
+				"pagoda_post_scroll_bg_hover_"	: "#666", 
+				"pagoda_post_scroll_bd_color_"	: "#999", 
+				"pagoda_post_scroll_fa_color_"	: "#fff"
+			},
+
+			"border" : {
+				"pagoda_post_border_show_"		: "",
+				"pagoda_post_border_inset_"		: "",
+				"pagoda_post_border_radius_"	: "0px",
+				"pagoda_post_border_size_"		: "5px",
+				"pagoda_post_border_fade_"		: "5px",
+				"pagoda_post_border_color_"		: "#ccc"
+			},
+
+			"content" : {
+				"pagoda_post_content_bg_color_"	: "#eee",
+				"pagoda_post_content_mn_color_"	: "#fff",
+				"pagoda_post_content_h_color_"	: "#444",
+				"pagoda_post_content_p_color_"	: "#666",
+				"pagoda_post_content_a_color_"	: "#000",
+				"pagoda_post_content_a_hover_"	: "#666",
+				"pagoda_post_content_b_color_"	: "#444",
+				"pagoda_post_content_in_color_"	: "#eee",
+				"pagoda_post_content_in_hover_"	: "#ddd"
+			},
+
+			"frames" : {
+				"pagoda_post_frames_image_"		: "",
+				"pagoda_post_frames_input_"		: "",
+				"pagoda_post_frames_inset_"		: "",
+				"pagoda_post_frames_radius_"	: "0px",
+				"pagoda_post_frames_size_"		: "2px",
+				"pagoda_post_frames_fade_"		: "2px",
+				"pagoda_post_frames_color_"		: "#ccc"
+			}
+		}
+	},
+
+	"sidebars" : {
+		 
+		"main"  : {
+			"pagoda_sidebar_styles_activate"	: "", 
+			"pagoda_sidebar_mn_title_"			: "Sidebar",
+			"pagoda_sidebar_mn_style_"			: "0"
+		},
+
+		"fonts"	: {
+			"pagoda_sidebar_h_font_fam"			: "Montserrat",
+			"pagoda_sidebar_h_font_var"			: "regular",
+			"pagoda_sidebar_h_font_size"		: "32",
+			"pagoda_sidebar_p_font_fam"			: "Montserrat",
+			"pagoda_sidebar_p_font_var"			: "regular",
+			"pagoda_sidebar_p_meta_var"			: "regular",
+			"pagoda_sidebar_p_font_size"		: "18"
+		},
+
+		"data" : {	
+
+			"display" : {
+
+				"pagoda_sidebar_sb_width_"		: "25%",
+				"pagoda_sidebar_sb_padding_"	: "20px 10px",
+				"pagoda_sidebar_sb_content_"	: "10px 10px",
+				"pagoda_sidebar_sb_widget_"		: "10px 0px",
+				"pagoda_sidebar_sb_tmargin_"	: "0",
+				"pagoda_sidebar_sb_cmargin_"	: "0",
+				"pagoda_sidebar_sb_color_"		: "#fff",
+				"pagoda_sidebar_sb_crgba_"		: "rgba(0,0,0,0.0)"
+			},
+
+			"border" : {
+
+				"pagoda_sidebar_bd_show_"		: "",
+				"pagoda_sidebar_bd_fused_"		: "1",
+				"pagoda_sidebar_bd_inset_"		: "",
+				"pagoda_sidebar_bd_render_"		: "",
+				"pagoda_sidebar_bd_radius_"		: "0px",
+				"pagoda_sidebar_bd_size_"		: "5px",
+				"pagoda_sidebar_bd_fade_"		: "5px",
+				"pagoda_sidebar_bd_color_"		: "#ccc"
+			},
+
+			"title" : {
+				"pagoda_sidebar_tl_show_"		: "1",
+				"pagoda_sidebar_tl_align_"		: "left",
+				"pagoda_sidebar_tl_padding_"	: "10px",
+				"pagoda_sidebar_tl_color_"		: "#666",
+				"pagoda_sidebar_tf_font_fam_"	: "Montserrat",
+				"pagoda_sidebar_tf_font_var_"	: "regular",
+				"pagoda_sidebar_tf_font_size_"	: "24",
+				"pagoda_sidebar_tf_font_color_"	: "#fff"
+			},
+
+			"content" : {
+				"pagoda_sidebar_h_color_"		: "#444",
+				"pagoda_sidebar_p_color_"		: "#999",
+				"pagoda_sidebar_a_color_"		: "#666",
+				"pagoda_sidebar_a_hover_"		: "#999",
+				"pagoda_sidebar_in_color_"		: "#000",
+				"pagoda_sidebar_in_hover_"		: "#666"
+			},
+
+			"frames" : {
+				"pagoda_sidebar_frames_show_"	: "",
+				"pagoda_sidebar_frames_inset_"	: "",
+				"pagoda_sidebar_frames_radius_"	: "0px",
+				"pagoda_sidebar_frames_size_"	: "2px",
+				"pagoda_sidebar_frames_fade_"	: "2px",
+				"pagoda_sidebar_frames_color_"	: "#ccc"
+			}
+		}
+	},
+
+	"footer" : {
+
+		"display" : {
+			"pagoda_footer_bg_color"		: "#000",				
+			"pagoda_footer_bg_image"		: "",				
+			"pagoda_footer_tl_text"			: "Pagoda - Designed in Scandinavia",
+			"pagoda_footer_tl_padding"		: "20px 0px 5px 0px",
+			"pagoda_footer_tf_font_fam"		: "Montserrat",
+			"pagoda_footer_tf_font_var"		: "regular",
+			"pagoda_footer_tf_font_size"	: "20",
+			"pagoda_footer_tf_font_color"	: "#fff",
+			"pagoda_footer_sb_text"			: "©2017 by Nablafire",
+			"pagoda_footer_sb_padding"		: "5px 0px 20px 0px",
+			"pagoda_footer_sf_font_fam"		: "Montserrat",
+			"pagoda_footer_sf_font_var"		: "regular",
+			"pagoda_footer_sf_font_size"	: "16",
+			"pagoda_footer_sf_font_color"	: "#fff"
+		},
+
+		"socials" : {
+			"pagoda_footer_social_control"		: "",
+			"pagoda_footer_social_block_size"	: "30px",			
+			"pagoda_footer_social_font_size"	: "20px",
+			"pagoda_footer_social_padding"		: "0px 0px 0px 0px",
+			"pagoda_footer_social_display"		: "between",
+			"pagoda_footer_social_color"		: "#fff",
+			"pagoda_footer_social_hover"		: "#666",
+
+			"data" : {
+				"Facebook"	: {
+					"show"	: "1", 
+					"link"	: "#",
+					"label"	: "facebook" , 				 
+					"icon"	: "fa-facebook-square"
+				},
+				
+				"Twitter"	: {
+					"show"	: "1", 
+					"link"	: "#",
+					"label"	: "twitter",		 
+					"icon"	: "fa-twitter-square"
+				},
+				"LinkedIn"	: {
+					"show"	: "1",
+					"link"	: "#",
+					"label"	: "linkedin",
+					"icon"	: "fa-linkedin-square"
+				},
+				"Google+" 	: {
+					"show" 	: "1", 
+					"link" 	: "#",
+					"label"	: "googleplus",
+					"icon" 	: "fa-google-plus-square"
+				},
+				"Instagram"	: {
+					"show"	: "1",
+					"link"	: "#",
+					"label"	: "instagram",
+					"icon"	: "fa-instagram"
+				},
+				"Pinterest"	: {
+					"show"	: "" , 
+					"link"	: "#",
+					"label"	: "pinterest",
+					"icon"	: "fa-pinterest-square"
+				},				
+				"Soundcloud": {
+					"show"	: "" , 
+					"link"	: "#",
+					"label"	: "soundcloud",
+					"icon"	: "fa-soundcloud"
+				},
+				"Vimeo"		: {
+					"show"	: "" ,
+					"link"	: "#",
+					"label"	: "vimeo",
+					"icon"	: "fa-vimeo-square"
+				},
+				"Youtube"	: {
+					"show"	: "" ,
+					"link"	: "#",
+					"label"	: "youtube",
+					"icon"	: "fa-youtube-play"
+				},
+				"Amazon"	: {
+					"show"	: "" ,
+					"link"	: "#",
+					"label" : "amazon",
+					"icon"	: "fa-amazon"
+				},
+				"TripAdvisor": {
+					"show"	: "" ,
+					"link"	: "#",
+					"label"	: "tripadvisor",
+					"icon"	: "fa-tripadvisor"
+				},
+				"Wordpress"	: {
+					"show"	: "1",
+					"link"	: "#",
+					"label"	: "wordpress",
+					"icon"	: "fa-wordpress"
+				},
+				"Github"	: {
+					"show"	: "" ,
+					"link"	: "#",
+					"label"	: "github",
+					"icon"	: "fa-github"
+				},
+				"Bitcoin"	: {
+					"show"	: "" ,
+					"link"	: "#",
+					"label"	: "bitcoin",
+					"icon"	: "fa-btc"
+				},
+				"Linux"		: {
+					"show"	: "1",
+					"link"	: "#",
+					"label"	: "linux",
+					"icon"	: "fa-linux"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,145 @@
+html, body {
+	margin: 0;
+	padding: 20px 40px;
+    height:100%;
+}
+
+/* Correct Quotes */
+.mce-content-body html q {
+	quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.mce-content-body html[lang="fr"] q {
+ 	quotes: "\00ab" "\00bb";
+}
+
+.mce-content-body h1,
+.mce-content-body h2,
+.mce-content-body h3,
+.mce-content-body h4,
+.mce-content-body h5,
+.mce-content-body h6 {
+	color: #444;
+	margin: 0 0 10px 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.mce-content-body p,
+.mce-content-body q, 
+.mce-content-body a,
+.mce-content-body ul,
+.mce-content-body li {
+	font-size: 16px;
+	line-height: 150%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.mce-content-body ul {
+	padding-left: 40px;
+}
+
+.mce-content-body li > ul {
+	padding-left: 20px;
+}
+
+.mce-content-body a, 
+.mce-content-body a:hover, 
+.mce-content-body a:focus, 
+.mce-content-body a:active, 
+.mce-content-body a.active {
+	font-size: 16px;
+	outline: 0;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+
+}
+
+.mce-content-body p q{
+	color: #666;
+}
+
+.mce-content-body a {
+	color: #666;
+	font-weight: '700';
+}
+
+.mce-content-body a:hover {
+	color: #999;
+}
+
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+.mce-content-body img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	visibility: visible;
+}
+
+.mce-content-body figure {
+	margin: 0;
+}
+
+.mce-content-body main {
+	overflow: auto;
+	width: 100%;
+}
+
+/* Code Block */
+.mce-content-body code {
+	word-wrap: break-word;
+    word-break:break-all;
+	font-family: monospace; 
+	font-size: 16px;
+	width:inherit;
+}
+
+.mce-content-body span.code{
+	word-wrap: break-word;
+    word-break:break-all;
+	font-family: monospace; 
+	font-size: 16px;
+	width:inherit;
+}
+.mce-content-body p.code-block{
+	word-wrap: break-word;
+    word-break:break-all;
+    font-family: monospace; 
+	font-size: 16px;
+	width:inherit;
+	padding: 5px 20px;
+	box-sizing: border-box;
+}
+
+/* Blockquote */
+.mce-content-body blockquote {
+	position: relative;
+	border: 0;
+	font-style: italic;
+	margin: 0; 
+	padding: 0px 50px;
+	width: 100%;
+	box-sizing: border-box;
+	overflow: hidden;
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.mce-content-body blockquote:before {
+	content: open-quote;
+	font-size: 40px;
+	display: inline-block;
+	float: left;
+	height: 30px;
+}
+
+.mce-content-body blockquote:after {
+    content: no-close-quote;
+}
+
+.mce-content-body blockquote p {
+	overflow: hidden;
+	font-size: 16px;
+	padding: 7px 20px 5px 5px;
+	margin: 0;
+}
