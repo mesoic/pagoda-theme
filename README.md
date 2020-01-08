@@ -1,19 +1,10 @@
--------------------------------------------------------
-    Pagoda Theme Licensing:
--------------------------------------------------------
-*** To be added pending review and acceptance by Themeforest ***
-
--------------------------------------------------------
-    Description:
--------------------------------------------------------
+# About Pagoda
 
 Pagoda is a compact onepage theme built on a custom templating engine which delivers maximum flexibility for developers. The frontpage template consists of a splash header, a variable number of generic and fully customizable sections, and a simple footer with social media icon support. The splash header supports animated, parallax, and static backgrounds allowing for strong control over the visual appeal of your landing page. Pagoda's frontpage sections support widget grid layouts and selective responsive display of specific widgets allowing for maximum design flexibility. Simply populate your frontpage sections with some of our custom Nablafire Widgets or any other widgets of your choosing. Posts and pages in Pagoda are also highly dynamic objects which allow you to assign styles based on post category and page hierarchy. These features are smoothly integrated with Pagoda's templates and fully customizable sidebars.
 
 Pagoda is engineered around a novel design concept which utilizes machine generated stylesheets. Thus, Pagoda can be adapted serve a wide range of development needs with varying aesthetic demands. Simply assign your styles via the theme customizer, and Pagoda will generate and dynamically enqueue the corresponding stylesheets. With Pagoda, the developer has access to a wide range of customization options. Easily control layout aspects of your frontpage, posts, and pages, choose between over 800+ auto-linking webfonts, or create dynamic compositing effects with RGBA colors. Pagoda is perfect for small businesses, niche websites, and creative development projects looking for a powerful yet lightweight responsive theme.
 
--------------------------------------------------------
-    Features:
--------------------------------------------------------
+# Features:
 
 * Fully Dynamic Machine Generated CSS via Customizer
 * Efficient templating engine and modular architecture
@@ -39,21 +30,17 @@ Pagoda is engineered around a novel design concept which utilizes machine genera
 * HTML5, CSS3, jQuery powered
 * User CSS Supported 
 
--------------------------------------------------------
-    Frequently Asked Questions:
--------------------------------------------------------
+# Frequently Asked Questions:
 
-= Is there demo content available? =
+Is there demo content available?
 
-Yes, go here: https://pagoda.nablafire.com/
+Yes, go here: https://pagoda.nablafire.com/index.php
 
-= Is there theme documentation? =
+Is there theme documentation?
 
 Yes, go here: http://pagoda.nablafire.com/tutorial
 
--------------------------------------------------------
-    Changelog:
--------------------------------------------------------
+# Changelog:
 
 = Theme Name: Pagoda =
 
@@ -70,11 +57,9 @@ Yes, go here: http://pagoda.nablafire.com/tutorial
   WordPress 4.9 Unit Test
   First Release Version
 
--------------------------------------------------------
-    Copyright, Credits & Resources:
--------------------------------------------------------
+# Copyright, Credits & Resources:
 
-Pagoda WordPress Theme, Copyright 2017 nablafire.com
+Pagoda WordPress Theme, Copyright 2019 mesoic
 
 The theme uses the following third-party resources:
 
