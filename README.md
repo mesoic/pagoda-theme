@@ -32,34 +32,38 @@ Pagoda is engineered around a novel design concept which utilizes machine genera
 
 # Frequently Asked Questions:
 
-Is there demo content available?
+*Is there demo content available?*
 
 Yes, go here: https://pagoda.nablafire.com/index.php
 
-Is there theme documentation?
+*Is there theme documentation?*
 
 Yes, go here: http://pagoda.nablafire.com/tutorial
 
 # Changelog:
 
-= Theme Name: Pagoda =
+Theme Name: Pagoda
 
-= Version 1.0.1 | 27th September 2017 =
+Version 1.0.1 | 27th September 2017
   Development (Beta Version)
 
-= Version 1.1.0 | 22th October 2017 =
+Version 1.1.0 | 22th October 2017
   Development (Beta Version)
 
-= Version 1.1.2 | 1st November 2017 =
+Version 1.1.2 | 1st November 2017
   Development (Beta Version)	
   
-= Version 1.1.3 | 26th November 2017 =
+Version 1.1.3 | 26th November 2017
   WordPress 4.9 Unit Test
   First Release Version
+  
+Version 1.1.3 | 7th January 2020
+  Open source release
+  https://github.com/mesoic/pagoda-theme/
 
 # Copyright, Credits & Resources:
 
-Pagoda WordPress Theme, Copyright 2019 mesoic
+*** Pagoda WordPress Theme, Copyright 2019 @mesoic ***
 
 The theme uses the following third-party resources:
 
